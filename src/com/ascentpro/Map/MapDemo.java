@@ -1,4 +1,4 @@
-package com.ascentpro;
+package com.ascentpro.Map;
 
 import java.util.HashMap;
 import java.util.Map;

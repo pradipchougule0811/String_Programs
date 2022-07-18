@@ -1,0 +1,1 @@
+This is sample Demo program of how to use Map and how to add add elements in map.
